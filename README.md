@@ -11,5 +11,5 @@ I have learned the following:
 
 Overall, this project aims to empower businesses with the necessary tools and insights to monitor, evaluate, and enhance their sales activities. By leveraging sales data analysis, businesses can unlock new opportunities, drive growth, and stay competitive in the dynamic market landscape.
 
-
+Market performance vs Target report across years: Enables stakeholders to assess the country's performance and compare it to set targets.
 
